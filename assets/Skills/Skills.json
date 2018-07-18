@@ -1,0 +1,56 @@
+[
+  {
+    "name": "punchSprite",
+    "frame": {
+      "x": "0",
+      "y": "0",
+      "width": "512",
+      "height": "512"
+    }
+  },
+  {
+    "name": "kickSprite",
+    "frame": {
+      "x": "513",
+      "y": "0",
+      "width": "512",
+      "height": "512"
+    }
+  },
+  {
+    "name": "fireballSprite",
+    "frame": {
+      "x": "0",
+      "y": "513",
+      "width": "512",
+      "height": "512"
+    }
+  },
+  {
+    "name": "healSprite",
+    "frame": {
+      "x": "513",
+      "y": "513",
+      "width": "512",
+      "height": "512"
+    }
+  },
+  {
+    "name": "ShieldBreakerSprite",
+    "frame": {
+      "x": "0",
+      "y": "1026",
+      "width": "512",
+      "height": "512"
+    }
+  },
+  {
+    "name": "BackStabSprite",
+    "frame": {
+      "x": "513",
+      "y": "1026",
+      "width": "512",
+      "height": "512"
+    }
+  }
+]

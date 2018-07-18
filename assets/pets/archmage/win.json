@@ -1,0 +1,38 @@
+[
+  {
+    "name": "win01",
+    "frame": {
+      "x": 517,
+      "y": 222,
+      "width": 43,
+      "height": 75
+    }
+  },
+  {
+    "name": "win02",
+    "frame": {
+      "x": 619,
+      "y": 222,
+      "width": 43,
+      "height": 79
+    }
+  },
+  {
+    "name": "win03",
+    "frame": {
+      "x": 720,
+      "y": 224,
+      "width": 44,
+      "height": 84
+    }
+  },
+  {
+    "name": "win04",
+    "frame": {
+      "x": 821,
+      "y": 226,
+      "width": 49,
+      "height": 88
+    }
+  }
+]

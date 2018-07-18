@@ -1,0 +1,121 @@
+{"Heroes": [
+  {
+    "ID": "Subzero",
+    "Type": "Player",
+    "Health": 500,
+    "Energy": 200,
+    "x": 180,
+    "y": 575,
+    "SpriteName": "SubzeroSprite",
+    "Animation": [
+      {
+        "ID": "stance",
+        "JSON_SPRITE": "assets/Subzero/stance/subaltstance.json",
+        "SPRITE_SHEET": "assets/Subzero/stance/subaltstance.png"
+      },
+      {
+        "ID": "run",
+        "JSON_SPRITE": "assets/Subzero/run/subrun.json",
+        "SPRITE_SHEET": "assets/Subzero/run/subrun.png"
+      },
+      {
+        "ID": "attack",
+        "JSON_SPRITE": "assets/Subzero/combos/subcombos.json",
+        "SPRITE_SHEET": "assets/Subzero/combos/subcombos.png"
+      },
+      {
+        "ID": "win",
+        "JSON_SPRITE": "assets/Subzero/win/subwin.json",
+        "SPRITE_SHEET": "assets/Subzero/win/subwin.png"
+      },
+      {
+        "ID": "fall",
+        "JSON_SPRITE": "assets/Subzero/fall/subfall.json",
+        "SPRITE_SHEET": "assets/Subzero/fall/subfall.png"
+      },
+      {
+        "ID": "fallup",
+        "JSON_SPRITE": "assets/Subzero/fall/subfallup.json",
+        "SPRITE_SHEET": "assets/Subzero/fall/subfallup.png"
+      },
+      {
+        "ID": "endure",
+        "JSON_SPRITE": "assets/Subzero/endure/subendure.json",
+        "SPRITE_SHEET": "assets/Subzero/endure/subendure.png"
+      }
+    ],
+    "Skills": [
+      {
+        "ID": "punch",
+        "Type": "Enemy",
+        "Damage": 53,
+        "Cost": 15,
+        "SpriteName": "punchSprite"
+      },
+      {
+        "ID": "kick",
+        "Type": "Enemy",
+        "Damage": 97,
+        "Cost": 75,
+        "SpriteName": "kickSprite"
+      }
+    ]
+  },
+  {
+    "ID": "ArchMagePet",
+    "Type": "Player",
+    "Health": 300,
+    "Energy": 420,
+    "x": 100,
+    "y": 550,
+    "SpriteName": "ArchMagePetSprite",
+    "Animation": [
+      {
+        "ID": "stance",
+        "JSON_SPRITE": "assets/pets/archmage/stance.json",
+        "SPRITE_SHEET": "assets/pets/archmage/archmage.png"
+      },
+      {
+        "ID": "run",
+        "JSON_SPRITE": "assets/pets/archmage/run.json",
+        "SPRITE_SHEET": "assets/pets/archmage/archmage.png"
+      },
+      {
+        "ID": "attack",
+        "JSON_SPRITE": "assets/pets/archmage/attack.json",
+        "SPRITE_SHEET": "assets/pets/archmage/archmage.png"
+      },
+      {
+        "ID": "win",
+        "JSON_SPRITE": "assets/pets/archmage/win.json",
+        "SPRITE_SHEET": "assets/pets/archmage/archmage.png"
+      },
+      {
+        "ID": "fall",
+        "JSON_SPRITE": "assets/pets/archmage/fall.json",
+        "SPRITE_SHEET": "assets/pets/archmage/archmage.png"
+      },
+      {
+        "ID": "endure",
+        "JSON_SPRITE": "assets/pets/archmage/endure.json",
+        "SPRITE_SHEET": "assets/pets/archmage/archmage.png"
+      }
+    ],
+    "Skills": [
+      {
+        "ID": "fireball",
+        "Type": "Enemy",
+        "Damage": 190,
+        "Cost": 80,
+        "SpriteName": "fireballSprite"
+      },
+      {
+        "ID": "heal",
+        "Type": "Ally",
+        "Damage": 145,
+        "Cost": 50,
+        "SpriteName": "healSprite"
+      }
+    ]
+  }
+]}

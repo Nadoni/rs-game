@@ -1,0 +1,74 @@
+[
+  {
+    "name": "pet9",
+    "frame": {
+      "x": 0,
+      "y": 301,
+      "width": 119,
+      "height": 145
+    }
+  },
+  {
+    "name": "pet10",
+    "frame": {
+      "x": 197,
+      "y": 300,
+      "width": 119,
+      "height": 146
+    }
+  },
+  {
+    "name": "pet11",
+    "frame": {
+      "x": 394,
+      "y": 301,
+      "width": 119,
+      "height": 146
+    }
+  },
+  {
+    "name": "pet12",
+    "frame": {
+      "x": 591,
+      "y": 302,
+      "width": 119,
+      "height": 146
+    }
+  },
+  {
+    "name": "pet13",
+    "frame": {
+      "x": 0,
+      "y": 453,
+      "width": 119,
+      "height": 146
+    }
+  },
+  {
+    "name": "pet14",
+    "frame": {
+      "x": 197,
+      "y": 454,
+      "width": 119,
+      "height": 146
+    }
+  },
+  {
+    "name": "pet15",
+    "frame": {
+      "x": 394,
+      "y": 453,
+      "width": 119,
+      "height": 146
+    }
+  },
+  {
+    "name": "pet16",
+    "frame": {
+      "x": 591,
+      "y": 452,
+      "width": 119,
+      "height": 146
+    }
+  }
+]

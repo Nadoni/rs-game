@@ -1,0 +1,136 @@
+{"Heroes": [
+  {
+    "ID": "Sonya",
+    "Type": "AI",
+    "Health": 500,
+    "Energy": 200,
+    "x": 1050,
+    "y": 575,
+    "SpriteName": "SonyaSprite",
+    "Animation": [
+      {
+        "ID": "stance",
+        "JSON_SPRITE": "assets/Sonya/stance/sonyastance.json",
+        "SPRITE_SHEET": "assets/Sonya/stance/sonyastance.png"
+      },
+      {
+        "ID": "run",
+        "JSON_SPRITE": "assets/Sonya/run/sonyarun.json",
+        "SPRITE_SHEET": "assets/Sonya/run/sonyarun.png"
+      },
+      {
+        "ID": "win",
+        "JSON_SPRITE": "assets/Sonya/win/sonyawin.json",
+        "SPRITE_SHEET": "assets/Sonya/win/sonyawin.png"
+      },
+      {
+        "ID": "attack",
+        "JSON_SPRITE": "assets/Sonya/kick/sonyakick.json",
+        "SPRITE_SHEET": "assets/Sonya/kick/sonyakick.png"
+      },
+      {
+        "ID": "fall",
+        "JSON_SPRITE": "assets/Sonya/fall/sonyafall.json",
+        "SPRITE_SHEET": "assets/Sonya/fall/sonyafall.png"
+      },
+      {
+        "ID": "fallup",
+        "JSON_SPRITE": "assets/Sonya/fall/sonyafallup.json",
+        "SPRITE_SHEET": "assets/Sonya/fall/sonyafallup.png"
+      },
+      {
+        "ID": "endure",
+        "JSON_SPRITE": "assets/Sonya/endure/sonyaendure.json",
+        "SPRITE_SHEET": "assets/Sonya/endure/sonyaendure.png"
+      },
+      {
+        "ID": "special_p1",
+        "JSON_SPRITE": "assets/Sonya/special/sonyaspecial_p1.json",
+        "SPRITE_SHEET": "assets/Sonya/special/sonyaspecial_p1.png"
+      },
+      {
+        "ID": "special_p2",
+        "JSON_SPRITE": "assets/Sonya/special/sonyaspecial_p2.json",
+        "SPRITE_SHEET": "assets/Sonya/special/sonyaspecial_p2.png"
+      },
+      {
+        "ID": "special_p3",
+        "JSON_SPRITE": "assets/Sonya/special/sonyaspecial_p3.json",
+        "SPRITE_SHEET": "assets/Sonya/special/sonyaspecial_p3.png"
+      }
+    ],
+    "Skills": [
+      {
+        "ID": "punch",
+        "Type": "Enemy",
+        "Damage": 53,
+        "Cost": 15,
+        "SpriteName": "punchSprite"
+      },
+      {
+        "ID": "kick",
+        "Type": "Enemy",
+        "Damage": 97,
+        "Cost": 75,
+        "SpriteName": "kickSprite"
+      }
+    ]
+  },
+  {
+    "ID": "ArchMagePet",
+    "Type": "AI",
+    "Health": 300,
+    "Energy": 360,
+    "x": 1160,
+    "y": 540,
+    "SpriteName": "ArchMagePetSprite",
+    "Animation": [
+      {
+        "ID": "stance",
+        "JSON_SPRITE": "assets/pets/archmage/stance.json",
+        "SPRITE_SHEET": "assets/pets/archmage/archmage.png"
+      },
+      {
+        "ID": "run",
+        "JSON_SPRITE": "assets/pets/archmage/run.json",
+        "SPRITE_SHEET": "assets/pets/archmage/archmage.png"
+      },
+      {
+        "ID": "attack",
+        "JSON_SPRITE": "assets/pets/archmage/attack.json",
+        "SPRITE_SHEET": "assets/pets/archmage/archmage.png"
+      },
+      {
+        "ID": "win",
+        "JSON_SPRITE": "assets/pets/archmage/win.json",
+        "SPRITE_SHEET": "assets/pets/archmage/archmage.png"
+      },
+      {
+        "ID": "fall",
+        "JSON_SPRITE": "assets/pets/archmage/fall.json",
+        "SPRITE_SHEET": "assets/pets/archmage/archmage.png"
+      },
+      {
+        "ID": "endure",
+        "JSON_SPRITE": "assets/pets/archmage/endure.json",
+        "SPRITE_SHEET": "assets/pets/archmage/archmage.png"
+      }
+    ],
+    "Skills": [
+      {
+        "ID": "fireball",
+        "Type": "Enemy",
+        "Damage": 190,
+        "Cost": 80,
+        "SpriteName": "fireballSprite"
+      },
+      {
+        "ID": "heal",
+        "Type": "Ally",
+        "Damage": 145,
+        "Cost": 50,
+        "SpriteName": "healSprite"
+      }
+    ]
+  }
+]}

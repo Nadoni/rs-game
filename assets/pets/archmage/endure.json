@@ -1,0 +1,38 @@
+[
+  {
+    "name": "endure01",
+    "frame": {
+      "x": 5,
+      "y": 118,
+      "width": 44,
+      "height": 77
+    }
+  },
+  {
+    "name": "endure02",
+    "frame": {
+      "x": 100,
+      "y": 113,
+      "width": 53,
+      "height": 82
+    }
+  },
+  {
+    "name": "endure03",
+    "frame": {
+      "x": 207,
+      "y": 118,
+      "width": 46,
+      "height": 77
+    }
+  },
+  {
+    "name": "endure04",
+    "frame": {
+      "x": 311,
+      "y": 121,
+      "width": 46,
+      "height": 74
+    }
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "name": "sprite1",
+    "frame": {
+      "x": 4,
+      "y": 4,
+      "width": 35,
+      "height": 29
+    }
+  },
+  {
+    "name": "sprite2",
+    "frame": {
+      "x": 47,
+      "y": 4,
+      "width": 36,
+      "height": 29
+    }
+  },
+  {
+    "name": "sprite3",
+    "frame": {
+      "x": 91,
+      "y": 4,
+      "width": 37,
+      "height": 29
+    }
+  },
+  {
+    "name": "sprite4",
+    "frame": {
+      "x": 136,
+      "y": 4,
+      "width": 36,
+      "height": 29
+    }
+  }
+]

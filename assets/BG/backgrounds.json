@@ -1,0 +1,17 @@
+[
+  {
+    "KEY": 0,
+    "IMAGE": "assets/BG/bg_moon.png"
+  },
+  {
+    "KEY": 1,
+    "IMAGE": "assets/BG/field.png"
+  },
+  {
+    "KEY": 2,
+    "IMAGE": "assets/BG/palace.png"
+  }
+]
+
+
+

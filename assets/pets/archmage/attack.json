@@ -1,0 +1,65 @@
+[
+  {
+    "name": "attack01",
+    "frame": {
+      "x": 6,
+      "y": 448,
+      "width": 44,
+      "height": 76
+    }
+  },
+  {
+    "name": "attack02",
+    "frame": {
+      "x": 104,
+      "y": 433,
+      "width": 49,
+      "height": 91
+    }
+  },
+  {
+    "name": "attack03",
+    "frame": {
+      "x": 208,
+      "y": 433,
+      "width": 49,
+      "height": 91
+    }
+  },
+  {
+    "name": "attack04",
+    "frame": {
+      "x": 313,
+      "y": 432,
+      "width": 50,
+      "height": 92
+    }
+  },
+  {
+    "name": "attack05",
+    "frame": {
+      "x": 415,
+      "y": 445,
+      "width": 67,
+      "height": 79
+    }
+  },
+  {
+    "name": "attack06",
+    "frame": {
+      "x": 518,
+      "y": 451,
+      "width": 83,
+      "height": 73
+    }
+  },
+  {
+    "name": "attack07",
+    "frame": {
+      "x": 620,
+      "y": 445,
+      "width": 66,
+      "height": 79
+    }
+  }
+]

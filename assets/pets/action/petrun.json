@@ -1,0 +1,74 @@
+[
+  {
+    "name": "pet1",
+    "frame": {
+      "x": 33,
+      "y": 1,
+      "width": 128,
+      "height": 137
+    }
+  },
+  {
+    "name": "pet2",
+    "frame": {
+      "x": 226,
+      "y": 0,
+      "width": 132,
+      "height": 139
+    }
+  },
+  {
+    "name": "pet3",
+    "frame": {
+      "x": 421,
+      "y": 3,
+      "width": 134,
+      "height": 139
+    }
+  },
+  {
+    "name": "pet4",
+    "frame": {
+      "x": 618,
+      "y": 2,
+      "width": 134,
+      "height": 138
+    }
+  },
+  {
+    "name": "pet5",
+    "frame": {
+      "x": 33,
+      "y": 151,
+      "width": 128,
+      "height": 141
+    }
+  },
+  {
+    "name": "pet6",
+    "frame": {
+      "x": 226,
+      "y": 150,
+      "width": 132,
+      "height": 136
+    }
+  },
+  {
+    "name": "pet7",
+    "frame": {
+      "x": 421,
+      "y": 153,
+      "width": 134,
+      "height": 135
+    }
+  },
+  {
+    "name": "pet8",
+    "frame": {
+      "x": 618,
+      "y": 152,
+      "width": 134,
+      "height": 135
+    }
+  }
+]

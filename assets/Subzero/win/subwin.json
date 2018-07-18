@@ -1,0 +1,47 @@
+[
+  {
+    "name": "sprite1",
+    "frame": {
+      "x": 2,
+      "y": 2,
+      "width": 62,
+      "height": 128
+    }
+  },
+  {
+    "name": "sprite2",
+    "frame": {
+      "x": 67,
+      "y": 2,
+      "width": 75,
+      "height": 128
+    }
+  },
+  {
+    "name": "sprite3",
+    "frame": {
+      "x": 145,
+      "y": 2,
+      "width": 91,
+      "height": 128
+    }
+  },
+  {
+    "name": "sprite4",
+    "frame": {
+      "x": 239,
+      "y": 2,
+      "width": 97,
+      "height": 141
+    }
+  },
+  {
+    "name": "sprite5",
+    "frame": {
+      "x": 339,
+      "y": 2,
+      "width": 87,
+      "height": 151
+    }
+  }
+]

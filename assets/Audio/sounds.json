@@ -1,0 +1,18 @@
+[
+  {
+    "KEY": "punch",
+    "SOUND": "assets/Audio/battle_sound/punch.mp3"
+  },
+  {
+    "KEY": "female_voice",
+    "SOUND": "assets/Audio/battle_sound/female_voice.mp3"
+  },
+  {
+    "KEY": "female_voice2",
+    "SOUND": "assets/Audio/battle_sound/female_voice2.mp3"
+  },
+  {
+    "KEY": "bgtrack",
+    "SOUND": "assets/Audio/backmusic/bgtrack.mp3"
+  }
+]

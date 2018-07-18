@@ -1,0 +1,74 @@
+[
+  {
+    "name": "run01",
+    "frame": {
+      "x": 5,
+      "y": 665,
+      "width": 52,
+      "height": 75
+    }
+  },
+  {
+    "name": "run02",
+    "frame": {
+      "x": 110,
+      "y": 664,
+      "width": 51,
+      "height": 76
+    }
+  },
+  {
+    "name": "run03",
+    "frame": {
+      "x": 218,
+      "y": 665,
+      "width": 45,
+      "height": 75
+    }
+  },
+  {
+    "name": "run04",
+    "frame": {
+      "x": 325,
+      "y": 666,
+      "width": 49,
+      "height": 74
+    }
+  },
+  {
+    "name": "run05",
+    "frame": {
+      "x": 436,
+      "y": 665,
+      "width": 48,
+      "height": 75
+    }
+  },
+  {
+    "name": "run06",
+    "frame": {
+      "x": 544,
+      "y": 664,
+      "width": 48,
+      "height": 76
+    }
+  },
+  {
+    "name": "run07",
+    "frame": {
+      "x": 650,
+      "y": 664,
+      "width": 45,
+      "height": 76
+    }
+  },
+  {
+    "name": "run08",
+    "frame": {
+      "x": 760,
+      "y": 665,
+      "width": 44,
+      "height": 75
+    }
+  }
+]

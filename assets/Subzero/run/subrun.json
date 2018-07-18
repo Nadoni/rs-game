@@ -1,0 +1,110 @@
+[
+  {
+    "name": "run1",
+    "frame": {
+      "x": 2,
+      "y": 2,
+      "width": 63,
+      "height": 133
+    }
+  },
+  {
+    "name": "run2",
+    "frame": {
+      "x": 68,
+      "y": 2,
+      "width": 69,
+      "height": 133
+    }
+  },
+  {
+    "name": "run3",
+    "frame": {
+      "x": 140,
+      "y": 2,
+      "width": 71,
+      "height": 130
+    }
+  },
+  {
+    "name": "run4",
+    "frame": {
+      "x": 214,
+      "y": 2,
+      "width": 67,
+      "height": 128
+    }
+  },
+  {
+    "name": "run5",
+    "frame": {
+      "x": 284,
+      "y": 2,
+      "width": 55,
+      "height": 126
+    }
+  },
+  {
+    "name": "run6",
+    "frame": {
+      "x": 342,
+      "y": 2,
+      "width": 52,
+      "height": 127
+    }
+  },
+  {
+    "name": "run7",
+    "frame": {
+      "x": 397,
+      "y": 2,
+      "width": 64,
+      "height": 130
+    }
+  },
+  {
+    "name": "run8",
+    "frame": {
+      "x": 464,
+      "y": 2,
+      "width": 67,
+      "height": 132
+    }
+  },
+  {
+    "name": "run9",
+    "frame": {
+      "x": 534,
+      "y": 2,
+      "width": 73,
+      "height": 133
+    }
+  },
+  {
+    "name": "run10",
+    "frame": {
+      "x": 610,
+      "y": 2,
+      "width": 65,
+      "height": 132
+    }
+  },
+  {
+    "name": "run11",
+    "frame": {
+      "x": 678,
+      "y": 2,
+      "width": 52,
+      "height": 131
+    }
+  },
+  {
+    "name": "run12",
+    "frame": {
+      "x": 733,
+      "y": 2,
+      "width": 55,
+      "height": 132
+    }
+  }
+]
